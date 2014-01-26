@@ -10,14 +10,14 @@
 #
 # Add to and customize these groups to fit your needs.
 
-groups:
+groups:Owners
 
 # Permission nodes for GroupManager
 # by ElgarL, snowleo, continued from gabrielcouto's original
 # http://wiki.ess3.net
 
   g:groupmanager_default:
-    permissions:
+    permissions:va;ut
     - groupmanager.notify.self
 
   g:groupmanager_moderator:
